@@ -59,6 +59,9 @@ I have also learned to use the javaScript ES6 arrow function.Here is the code sn
             theme == null ? setTheme('blue') : setTheme(theme);
 };
 ```
+```arrow function
+    (e)=>{}
+```
 
 I have also learned how to use a for loop. Here is the code snippet example
 
